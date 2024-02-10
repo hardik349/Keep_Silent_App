@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //to make it full screen just add .NoActionBar.Fullscreen
+    <style name="Theme.KeepSilent" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Keep Silent</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+
+    //getStarted screen
+    <string name="welcome">Welcome To Keep Silent!!</string>
+    <string name="welcome_desc">where you automatically switched to \nsilent mode when you enter\npredefined locations</string>
+
+    //LoginScreen
+    <string name="login_caps">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_acc">Don\'t have account?</string>
+    <string name="or">OR</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+
+    //Signup screen
+    <string name="signup_caps">SIGN UP</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="error_message_no_match">Password doesn\'t match!!</string>
+    <string name="already_have_acc">Already have account?</string>
+
+    //Web client id
+    <string name="web_client_id">521405630232-p1323jbr7btmjt8ojbr0nmvqt3fh2qb2.apps.googleusercontent.com</string>
+    
+    //Main screen
+    <string name="added_location">Added Locations</string>
+    <string name="sign_out">Sign out</string>
+</resources>
